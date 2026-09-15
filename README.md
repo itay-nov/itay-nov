@@ -32,4 +32,4 @@ I use coding agents as part of a structured engineering workflow. Requirements, 
 
 ## Contact
 
-• LinkedIn
+• [LinkedIn](https://www.linkedin.com/in/itay-nov)
